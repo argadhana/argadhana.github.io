@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Software Engineer
+  icon: fa-school
+  timeframe: 2018-2021
+  institution:
+    name: SMK Negeri 8 Semarang
+- name: Software Engineer
+  icon: fa-school
+  timeframe: 2021-Present
+  institution:
+    name: Institut Teknologi Telkom Purwokerto

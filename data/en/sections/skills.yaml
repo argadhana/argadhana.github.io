@@ -1,0 +1,33 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Golang
+  icon: "/images/sections/skills/go.png"
+  summary: "Membuat API menggunakan golang"
+  url: "https://golang.org/"
+
+- name: Cloud Computing
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Menggunakan AWS untuk layanan komputasi"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Menggunakan linux sebagai sistem operasi utama"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "mengatur versioning menggunakan git"
+
+- name: Laravel
+  logo: /images/sections/skills/laravel.png
+  summary: "Mendevelop website dengan laravel"

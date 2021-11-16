@@ -1,0 +1,16 @@
+# some information about you
+name: "Argadhana Nugrohosiwi"
+nickname: "Argadhana"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hallo, Saya"
+image: "images/author/author.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "argadhana@gmail.com"
+  phone: "+6285721667024"
+
+# some summary about what you do
+summary:
+  - Keep it Simple!
+  - Seorang developer iseng dengan aplikasi iseng
+  - Terkadang serius, terkadang error

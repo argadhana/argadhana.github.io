@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Formulatrix Indonesia
+    url: "https://formulatrix.com/"
+    location: Jl. Sukarno Hatta No.121, Cebongan, Kec. Argomulyo, Kota Salatiga, Jawa Tengah 50731
+    # company overview
+    overview: FORMULATRIX® is committed to providing the life science community with the most innovative robotic automation equipment and software on the market.
+  positions:
+  - designation: Web Developer
+    start: Jul 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Oct 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - IT Support
+    - Networking Support
+    - Sysadmin
+    - Network engineer PT. Promanufacture Indonesia

@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Tugas Akhir Sanbercode
+  logo: #
+  role: Owner
+  timeline: "Jul 2020"
+  repo: https://github.com/argadhana/tugasakhirsanbercode
+  summary: Tugas akhir Bootcamp sanbercode
+  tags: ["academic", "laravel"]
+
+- name: Aplikasi Go-Cares 
+  logo: #
+  role: Developer
+  timeline: "Nov 2020"
+  url: "https://play.google.com/store/apps/details?id=com.caregiver.gocares&hl=in"
+  summary: Developing Backend untuk aplikasi GoCares
+  tags: ["professional", "laravel"]
+
+- name: Backend Foodmarket
+  logo: #
+  role: Developer
+  timeline: "Feb 2021"
+  #url: ""
+  repo: https://github.com/argadhana/foodmarket-backend
+  summary: Developing Backend Foodmarket
+  tags: ["professional", "laravel"]
+
+- name: Backend Crowd Funding
+  logo: #
+  role: Developer
+  timeline: "Jan 2021"
+  #url: ""
+  repo: https://github.com/argadhana/funding-backend
+  summary: Developing Backend Crowd Funding
+  tags: [ "professional", "Golang" ]
+
+- name: Scrapp and Download Image twitter
+  logo: #
+  role: Owner
+  timeline: "Dec 2020"
+  repo: https://github.com/argadhana/scrapp-and-download-image-twitter
+  #url: ""
+  summary: Scrapping dan auto download image dari twitter
+  tags: ["hobby", "golang"]

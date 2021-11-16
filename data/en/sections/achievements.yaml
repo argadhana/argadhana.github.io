@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: LKS CLOUD COMPUTING PROVINSI JAWA TENGAH
+  image: /images/sections/achievements/lks_cloud_computing_provinsi.jpg
+  summary: Juara I LKS Cloud Computing Tingkat Provinsi Jawa Tengah
+- title: LKS CLOUD COMPUTING KOTA SEMARANG
+  image: /images/sections/achievements/lks_cloud_computing_kota.jpg
+  summary: Juara I LKS Cloud Computing Tingkat Kota Semarang
+- title: KAMP KREATIF SMK INDONESIA
+  image: /images/sections/achievements/kksi_startup_terbaik.jpg
+  summary: Startup Terbaik Harapan II
+- title: SERTIFIKAT APRESIASI ARKADEMY 
+  image: /images/sections/achievements/arkademy.jpg
+  summary: Penetration tester di Arkademy
