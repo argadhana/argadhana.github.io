@@ -13,21 +13,21 @@ section:
 skills:
 - name: Golang
   icon: "/images/sections/skills/go.png"
-  summary: "Membuat API menggunakan golang"
+  summary: "Build RESTful APIs with Go"
   url: "https://golang.org/"
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Menggunakan AWS untuk layanan komputasi"
+  summary: "AWS Cloud Architecture"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Menggunakan linux sebagai sistem operasi utama"
+  summary: "Linux OS and Bash Scripting"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "mengatur versioning menggunakan git"
+  summary: "Versioning"
 
-- name: Laravel
-  logo: /images/sections/skills/laravel.png
-  summary: "Mendevelop website dengan laravel"
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Docker Containerization"

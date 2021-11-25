@@ -11,14 +11,14 @@ section:
 designation: Software Engineer Student
 # your company information
 company:
-  name: Institut Teknologi Telkom Purwokerto
-  url: "https://ittelkom-pwt.ac.id/"
+  name: Institut Teknologi Telkom
+  url: "https://argadhana.me/#education"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Saya adalah seorang mahasiswa di Institut Teknologi Telkom Purwokerto dengan program studi rekayasa perangkat lunak.'
+summary: 'Saya adalah seorang mahasiswa di Institut Teknologi Telkom dengan program studi rekayasa perangkat lunak.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
